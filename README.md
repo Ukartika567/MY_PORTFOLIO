@@ -2,7 +2,7 @@
 This is my personal portfolio.Here you can reach out my resume <a href="https://ushayadav.site" target="_blank">Usha Yadav</a>
 
 <h1 align="center">Hi 👋, I'm Usha yadav</h1>
-<h3 align="center">A Full Stack Developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usha567&label=Profile%20views&color=0e75b6&style=flat" alt="usha567" /> </p>
 
